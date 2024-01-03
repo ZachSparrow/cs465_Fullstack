@@ -21,7 +21,7 @@ The most prominent example of refactoring in my mind is utilizing the handlebar 
 
 
 _Testing:_
--**	Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.**
+- **Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.**
 
 In my experience with this project, the API methods we used most commonly were GET, POST, PUT, and DELETE.  We were able to test the results and applications of these methods with tools like postman and mongo compass, among others.  This would allow us to see if they are functioning as intended.  Endpoints are specific urls that we may associate with these API requests that would also be available through the tools we used.
 
